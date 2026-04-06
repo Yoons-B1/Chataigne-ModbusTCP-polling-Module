@@ -119,7 +119,6 @@ Consequences → Modbus TCP polling → Write coil
 Reference:
 
 * http://www.waveshare.com/wiki/Modbus_POE_ETH_Relay_(B)
-* http://www.waveshare.com/wiki/USB3.2-Gen1-HUB-2IN-4OUT
 
 ---
 
