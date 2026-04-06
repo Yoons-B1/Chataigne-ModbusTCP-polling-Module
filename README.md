@@ -1,4 +1,5 @@
-# ModbusTCP-polling_Chataigne-Module [V7]
+# <img width="32" height="32" alt="icon" src="https://github.com/user-attachments/assets/b3b14d2e-a53c-47f0-946a-0d98a13f39f3" /> ModbusTCP-polling-Chataigne-Module [V7]
+
 This module enables Modbus TCP in Chataigne and includes a polling function.
 
 > Note :  
