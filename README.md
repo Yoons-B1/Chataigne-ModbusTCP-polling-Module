@@ -133,6 +133,13 @@ Port : 502
 
 ## Test Commands
 
+### Input (Button Detection)
+
+```
+00 00 00 00 00 06 01 02 00 00 00 08  (DI1 click)
+00 00 00 00 00 04 01 02 01 01        (click detected response)
+```
+
 ### Output (Relay Control)
 
 ```
@@ -140,10 +147,5 @@ Port : 502
 00 00 00 00 00 06 01 05 00 00 00 00  (ch1 OFF)
 ```
 
-### Input (Button Detection)
 
-```
-00 00 00 00 00 06 01 02 00 00 00 08  (DI1 click)
-00 00 00 00 00 04 01 02 01 01        (click detected response)
-```
 
