@@ -123,7 +123,7 @@ Reference:
 
 ---
 
-## Modbus TCP Server Mode
+## ModbusTCP Server Mode
 
 ```
 IP   : 192.168.0.98
